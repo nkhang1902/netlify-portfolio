@@ -1,47 +1,76 @@
-![Netlify examples](netlify-badge-examples.png)
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+</div>
 
-# Netlify Feature Tour
+<br/>
 
-**Access this demo site**: https://feature-tour.netlify.app
+<center>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fad6792e-1c44-44db-bd79-ea74b42b0f89/deploy-status)](https://app.netlify.com/sites/feature-tour/deploys)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
-## About this example site
+</center>
 
-This site provides a path to get started learning about Netlify features.
+<h3 align="center">
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+</h3>
 
-- 📚 [Docs Getting Started Tutorial](https://docs.netlify.com/get-started/?utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples)
+## TL;DR
 
-## Speedily deploy your own version
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
-Deploy your own version of this example site by selecting the Deploy to Netlify Button below. This will automatically:
+## Built With
 
-- Clone a copy of this repo to your own GitHub account
-- Create a new project in your [Netlify account](https://app.netlify.com/?utm_medium=social&utm_source=github&utm_campaign=devex&utm_content=devex-examples), linked to your new repo
-- Create an automated deployment pipeline to watch for changes on your repo
-- Build and deploy your new site
+My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-feature-tour&utm_medium=social&utm_source=github&utm_campaign=devex&utm_content=devex-examples)
+This project was built using these technologies.
 
-## Install and run this example locally
+- React.js
+- Node.js
+- Express.js
+- CSS3
+- VsCode
+- Vercel
 
-You can clone this example repo to explore its features and implementation and to run it locally.
+## Features
 
-```shell
+**📖 Multi-Page Layout**
 
-# 1. Clone the repository to your local development environment
-git clone git@github.com:netlify/feature-tour.git
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
-# 2. Move into the project directory
-cd feature-tour
+**📱 Fully Responsive**
 
-# 3. Install code dependencies
-npm install
+## Getting Started
 
-# 4. Install the Netlify CLI to let you locally serve your site using Netlify's features
-npm install -g netlify-cli
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-# 5. Serve your site using Netlify Dev
-netlify dev
+## 🛠 Installation and Setup Instructions
 
-```
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
+
+## Usage Instructions
+
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
